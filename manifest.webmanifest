@@ -1,0 +1,10 @@
+{
+  "name": "SMM KADR Media Holding",
+  "short_name": "SMM KADR",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#050817",
+  "theme_color": "#050817",
+  "description": "Маркетинг, продакшн, SMM, таргет, сайты, CRM и AI-автоматизация.",
+  "icons": []
+}

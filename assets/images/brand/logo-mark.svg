@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 72 72" role="img" aria-label="SMM KADR">
+  <defs>
+    <linearGradient id="a" x1="8" y1="60" x2="62" y2="8" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2365ff"/>
+      <stop offset="1" stop-color="#18c8ff"/>
+    </linearGradient>
+    <filter id="g" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4"/></filter>
+  </defs>
+  <path d="M17 43h20L27 57H7l10-14Z" fill="#2365ff"/>
+  <path d="M32 17h23v23L43 52H30l12-12V29H20l12-12Z" fill="url(#a)"/>
+  <path d="M17 43h20L27 57H7l10-14Z" fill="#18c8ff" opacity=".24" filter="url(#g)"/>
+</svg>

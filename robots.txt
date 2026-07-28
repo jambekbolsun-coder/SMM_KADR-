@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jambekbolsun-coder.github.io/SMM_KADR1/sitemap.xml
